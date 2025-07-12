@@ -9,9 +9,10 @@
 ---
 
 ## 🧠 About Me  
-- 💻 **Primary Languages:** Java & JavaScript  
+- 💻 **Primary Languages:** Java & Kotlin
 - 🧑‍💻 **Projects I loved building:**  
   - [`szkolnyprzewodnik.edu.pl`](http://szkolnyprzewodnik.edu.pl) – year-long school guide project.
+- 🖼️ **[`My Portfolio Site`](https://masnypen.dev)**
 - 🤝 **Known for:** Explaining complex tech clearly and helping others solve code issues  
 - 🌍 **Goal:** Become a developer with strong fundamentals across disciplines  
 
